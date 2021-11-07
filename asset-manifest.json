@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/vermini/static/css/main.c1168b89.chunk.css",
+    "main.js": "/vermini/static/js/main.a581cf88.chunk.js",
+    "main.js.map": "/vermini/static/js/main.a581cf88.chunk.js.map",
+    "runtime-main.js": "/vermini/static/js/runtime-main.5e4d5925.js",
+    "runtime-main.js.map": "/vermini/static/js/runtime-main.5e4d5925.js.map",
+    "static/js/2.431df362.chunk.js": "/vermini/static/js/2.431df362.chunk.js",
+    "static/js/2.431df362.chunk.js.map": "/vermini/static/js/2.431df362.chunk.js.map",
+    "static/js/3.f9522ff0.chunk.js": "/vermini/static/js/3.f9522ff0.chunk.js",
+    "static/js/3.f9522ff0.chunk.js.map": "/vermini/static/js/3.f9522ff0.chunk.js.map",
+    "index.html": "/vermini/index.html",
+    "static/css/main.c1168b89.chunk.css.map": "/vermini/static/css/main.c1168b89.chunk.css.map",
+    "static/js/2.431df362.chunk.js.LICENSE.txt": "/vermini/static/js/2.431df362.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5e4d5925.js",
+    "static/js/2.431df362.chunk.js",
+    "static/css/main.c1168b89.chunk.css",
+    "static/js/main.a581cf88.chunk.js"
+  ]
+}
